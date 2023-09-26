@@ -7,7 +7,8 @@ class Products extends Component {
     ));
     return (
       <div>
-        <ul>{listProducts}</ul>
+       <ol>{listProducts}</ol>
+
       </div>
     );
   }
